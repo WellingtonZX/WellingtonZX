@@ -1,28 +1,8 @@
 OII Meu Nome e Wellington
 
 
-
-
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-
-  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
-</a>
-  <br />
-
-  </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
