@@ -48,7 +48,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/wellxngtxn" target="_blank">
+  <a href="https://www.linkedin.com/in/wellxngtxn/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="wellington.santos06@outlook.com" target="_blank">
@@ -57,7 +57,7 @@
   <a href="https://www.instagram.com/wellxngtxn/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="+55 (47) 99159-1468" target="_blank">
+  <a href="https://wa.me/qr/XTVKOC26A5GTA1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
